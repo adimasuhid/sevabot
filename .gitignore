@@ -61,4 +61,6 @@ Skype4Py
 logs/*
 *.tmp
 custom/*
-
+setuptools*
+pip*
+pip-1.4.1.tar.gz
