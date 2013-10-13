@@ -1,0 +1,6 @@
+
+(process:14767): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "XInputExtension" missing on display ":1".
+skype: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
